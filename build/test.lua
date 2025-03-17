@@ -1,1 +1,2 @@
-_G.printtest = "wrewqeqwe"
+local printtest = "wrqweqweqw"
+return printtest
