@@ -1,2 +1,1 @@
-local printtest = "wrqweqweqw"
-return printtest
+local something = "qweqwewqewqewqeqweqw"
