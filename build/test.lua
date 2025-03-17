@@ -1,1 +1,1 @@
-local TestSomething = "WEKRIOWPEKRWE"
+local printtest = "weqweqweqweqwe"
