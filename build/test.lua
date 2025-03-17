@@ -1,2 +1,1 @@
-local printtest = "weqweqweqweqwe"
-return printtest
+_G.printtest = "wrewqeqwe"
