@@ -1,4 +1,1 @@
-local function test1()
-  return "testttt"
-end
-return test1()
+local TestSomething = "WEKRIOWPEKRWE"
