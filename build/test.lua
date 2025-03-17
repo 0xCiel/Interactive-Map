@@ -1,1 +1,1 @@
-"local myVar = 'Hello, world!'; print(myVar)"  
+local test = "tewwetwrweerweqweqw"
